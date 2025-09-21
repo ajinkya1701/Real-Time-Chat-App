@@ -32,7 +32,7 @@ realtime-chat/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/realtime-chat-app.git
+git clone https://github.com/ajinkya1701/realtime-chat-app.git
 cd realtime-chat
 ```
 
